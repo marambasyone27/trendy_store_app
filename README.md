@@ -5,21 +5,30 @@ Built with modern architecture using `Cubit` for state management and `Dio` for 
 
 ---
 
-## 🎥 Application Demo
+## 🖼️ App Screens
 
-Watch the video demo of the app in action:
-
-▶️ **[Click to view the app video](https://github.com/marambasyone27/trendy_store_app/tree/main/assets/app%20video)**
+### 🌀 Splash Screen  
+![Splash Screen](https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/splash%20screen.png?raw=true)
 
 ---
 
-## 🖼️ App Screens
+### 📝 Onboarding Screen  
+![Onboarding Screen](https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/onboarding.png?raw=true)
 
-- 🌀 **Splash Screen** – Animated welcome screen  
-- 📝 **Onboarding Screen** – App intro with multiple product categories  
-- 🏠 **Home Screen** – Grid-based product listing  
-- 📦 **Product Description Screen** – Full details of selected product  
-- 🛒 **Cart Screen** – Interactive cart with delete & total price features  
+---
+
+### 🏠 Home Screen  
+![Home Screen](https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/home%20screen.png?raw=true)
+
+---
+
+### 📦 Product Description Screen  
+![Product Description Screen](https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/product%20discription.png?raw=true)
+
+---
+
+### 🛒 Cart Screen  
+![Cart Screen](https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/cart%20screen.png?raw=true)
 
 ---
 
@@ -60,4 +69,3 @@ flutter pub get
 
 # 4. Run the app
 flutter run
-
