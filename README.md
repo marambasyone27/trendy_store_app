@@ -1,67 +1,58 @@
 # 🛍️ Trendy Store Application
 
-A stylish Flutter-based shopping app that showcases **men's, women's clothing**, **electronics**, and **accessories**.  
-Built with modern architecture using `Cubit` for state management and `Dio` for API handling.
+A stylish Flutter-based shopping app that showcases **men's & women's clothing**, **electronics**, and **accessories**.  
+Built using modern Flutter architecture with `Cubit` for state management and `Dio` for API handling.
 
 ---
 
 ## 🖼️ App Screens
 
-### 🌀 Splash Screen  
-![Splash Screen](https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/splash%20screen.png?raw=true)
+<p float="left">
+  <img src="https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/splash%20screen.png?raw=true" width="280" alt="Splash Screen"/>
+  <img src="https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/onboarding.png?raw=true" width="280" alt="Onboarding Screen"/>
+</p>
 
----
+<p float="left">
+  <img src="https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/home%20screen.png?raw=true" width="280" alt="Home Screen"/>
+  <img src="https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/product%20discription.png?raw=true" width="280" alt="Product Description"/>
+</p>
 
-### 📝 Onboarding Screen  
-![Onboarding Screen](https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/onboarding.png?raw=true)
-
----
-
-### 🏠 Home Screen  
-![Home Screen](https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/home%20screen.png?raw=true)
-
----
-
-### 📦 Product Description Screen  
-![Product Description Screen](https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/product%20discription.png?raw=true)
-
----
-
-### 🛒 Cart Screen  
-![Cart Screen](https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/cart%20screen.png?raw=true)
+<p float="left">
+  <img src="https://github.com/marambasyone27/trendy_store_app/blob/main/screenshots/cart%20screen.png?raw=true" width="280" alt="Cart Screen"/>
+</p>
 
 ---
 
 ## 🛠️ Built With
 
-- 💙 **Flutter** – Cross-platform app framework  
-- 🧠 **Cubit (flutter_bloc)** – Lightweight state management  
-- 🌐 **Dio** – For handling REST API  
-- 🛍️ **Fake Store API** – Product data provider  
-- 🎨 **Google Fonts & Custom Styling** – Clean, beautiful UI
+- 💙 **Flutter** – Cross-platform app development framework  
+- 🧠 **Cubit (flutter_bloc)** – Lightweight & scalable state management  
+- 🌐 **Dio** – Networking library for HTTP API requests  
+- 🛍️ **Fake Store API** – For dynamic product data  
+- 🎨 **Google Fonts & Custom Styling** – Sleek and attractive UI/UX  
 
 ---
 
 ## ✨ Features
 
-- 🧭 Smooth onboarding experience  
-- ⚡ Real-time product listing from API  
-- 💰 Automatic total price calculation in the cart  
-- 🛒 Add-to-cart with delete confirmation  
-- 🖼️ Error-handling and loading animations  
-- 🪄 Gradient theming and custom fonts for a premium feel
+- 🧭 **Elegant Onboarding**: Smooth multi-page intro to the app  
+- 🛒 **Cart Functionality**: Add, delete, and calculate total price  
+- ⚡ **Live Product Feed**: Real-time data from API with loading/error states  
+- 🖼️ **Product Details View**: Full information for each item  
+- 🎨 **Modern UI**: Gradient themes, animations, and clean layout  
+- 🔁 **State Management**: Reliable app behavior with Cubit  
 
 ---
 
 ## 🚀 Getting Started
 
-To run the project locally:
+To run this project locally:
 
 ```bash
 # 1. Clone the repository
 git clone https://github.com/marambasyone27/trendy_store_app.git
 
-# 2. Navigate to project directory
+# 2. Navigate to the project directory
 cd trendy_store_app
 
 # 3. Get all dependencies
